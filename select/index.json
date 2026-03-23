@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Zero (J.I.D Remix)",
+  "base_artist": "NewJeans",
+  "createdAt": "2026-03-23T18:39:01.148764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Zero (J.I.D Remix)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/01_Zero_(J.I.D_Remix)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zero (J.I.D remix)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/02_Zero_(J.I.D_remix)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zero (J.I.D Remix)",
+      "artist": "NewJeans/JID",
+      "has_synced": true,
+      "path": "select/03_Zero_(J.I.D_Remix)_NewJeans_JID.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zero (J.I.D Remix)",
+      "artist": "NewJeans\u0000JID",
+      "has_synced": true,
+      "path": "select/04_Zero_(J.I.D_Remix)_NewJeans\u0000JID.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zero (J.I.D Remix)",
+      "artist": "NewJeans feat. JID",
+      "has_synced": true,
+      "path": "select/05_Zero_(J.I.D_Remix)_NewJeans_feat._JID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zero (J.I.D Remix)",
+      "artist": "NewJeans & JID",
+      "has_synced": true,
+      "path": "select/06_Zero_(J.I.D_Remix)_NewJeans_&_JID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zero (J.I.D Remix)",
+      "artist": "NewJeans feat. JID",
+      "has_synced": true,
+      "path": "select/07_Zero_(J.I.D_Remix)_NewJeans_feat._JID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zero (J.I.D Remix)",
+      "artist": "NewJeans & J.I.D",
+      "has_synced": true,
+      "path": "select/08_Zero_(J.I.D_Remix)_NewJeans_&_J.I.D.lrc"
+    }
+  ]
+}
